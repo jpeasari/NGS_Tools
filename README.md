@@ -58,8 +58,8 @@ GitHub page: https://github.com/OpenGene/fastp \
 fastp video tutorial : https://www.youtube.com/watch?v=VrIW4EcHly4&ab_channel=MakeTheBrainHappy-ScientificExploration 
 >
 Basic commands: \
-***fastp --in1 read1.fq --in2 read2.fq*** \
-***fastp -i read.fq -o out.fq*** \
+Single end: ***fastp -i read.fq -o out.fq*** \
+Paired end: ***fastp --in1 read1.fq --in2 read2.fq*** 
 
 ### Qualimap
 >
