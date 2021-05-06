@@ -3,6 +3,15 @@
 ## Basic Linux commands
 
 ## Anaconda
+Installation: https://docs.anaconda.com/anaconda/install/linux/ \
+Managing environments: https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html \
+Creating a conda environment: ***conda create --name env_name*** \
+Creating a conda environment with a specific python version: ***conda create -n env_name python=3.6**** \
+Activating conda environment: ***conda activate env_name*** \
+Deactivating conda environment: ***conda deactivate*** \
+List conda environments: ***conda env list*** \
+List installed packages inside the conda environment: ***conda list*** 
+>
 
 ## blast
 
