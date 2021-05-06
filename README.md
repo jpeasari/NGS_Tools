@@ -51,6 +51,16 @@ Command: \
 >
 ### multiqc
 ### fastp
+>
+Installation from https://anaconda.org/bioconda/fastp: ***conda install -c bioconda fastp*** \
+Documentation: https://academic.oup.com/bioinformatics/article/34/17/i884/5093234 \
+GitHub page: https://github.com/OpenGene/fastp \
+fastp video tutorial : https://www.youtube.com/watch?v=VrIW4EcHly4&ab_channel=MakeTheBrainHappy-ScientificExploration 
+>
+Basic commands: \
+***fastp --in1 read1.fq --in2 read2.fq*** \
+***fastp -i read.fq -o out.fq*** \
+
 ### Qualimap
 >
 Installation from https://anaconda.org/bioconda/qualimap : ***conda install -c bioconda qualimap*** \
