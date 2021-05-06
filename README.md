@@ -31,7 +31,7 @@ Commands: \
 ***fastq-dump SRRXXXXXX*** \
 ***fastq-dump -I --split-files SRRXXXXXX*** - for paired end data \
 ***fasterq-dump SRRXXXXXX*** \
-***fasterq-dump -I --split-files SRRXXXXXX*** for paired end data \
+***fasterq-dump -I --split-files SRRXXXXXX*** - for paired end data \
 
 
 
