@@ -2,6 +2,8 @@
 
 ## Basic Linux commands
 
+## Anaconda
+
 ## blast
 
 Installation from https://anaconda.org/bioconda/blast : ***conda install -c bioconda blast*** \
