@@ -4,10 +4,10 @@
 
 ## blast
 
-Installation from https://anaconda.org/bioconda/blast : _conda install -c bioconda blast_ \
+Installation from https://anaconda.org/bioconda/blast : ***conda install -c bioconda blast*** \
 Documentation : https://www.ncbi.nlm.nih.gov/books/NBK279690/  \
 Performing blast: \
-Step 1: Creating a database locally - **makeblastdb -in reference_sequences.fasta -out <your_database_name> -dbtype nucl -parse_seqids** 
+Step 1: Creating a database locally - ***makeblastdb -in reference_sequences.fasta -out <your_database_name> -dbtype nucl -parse_seqids*** 
 
 
 ## Getting NGS data
