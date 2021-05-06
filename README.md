@@ -30,7 +30,7 @@ Links to understand blast output:
 https://www.biostars.org/p/88944/  
 http://www.metagenomics.wiki/tools/blast/blastn-output-format-6
 
-## Getting NGS data
+## Downloading NGS data
 
 ### SRA tool-kit
 
