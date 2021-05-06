@@ -30,7 +30,7 @@ Commands: \
 ***wget paste_hyperlink_here*** \
 ***fastq-dump SRRXXXXXX*** \
 ***fastq-dump -I --split-files SRRXXXXXX*** - for paired end data \
-***fasterq-dump SRRXXXXXX*** 
+***fasterq-dump SRRXXXXXX*** \
 ***fasterq-dump -I --split-files SRRXXXXXX*** for paired end data \
 
 
