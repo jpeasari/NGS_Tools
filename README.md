@@ -74,25 +74,28 @@ Basic commands: \
 Single end: ***fastp -i read.fq -o out.fq*** \
 Paired end: ***fastp --in1 read1.fq --in2 read2.fq*** 
 
-### Qualimap
->
-Installation from https://anaconda.org/bioconda/qualimap : ***conda install -c bioconda qualimap*** \
-Tool websource: http://qualimap.conesalab.org/ \
-Mannual: http://qualimap.conesalab.org/doc_html/index.html \
-Command:\
-***./qualimap bamqc -bam bam_file.bam -gff gene_annotation.bed -outdir qualimap_results -outformat pdf*** \
+
 
 
 
 
 ## Read alignment
-
+>
 ### STAR
 ### bowtie2
 ### hisat2
 ### BWA
 ### SPades
-# Tophat2
+### Tophat2
+>
+## Alignment Quality control
+>
+### Qualimap
+Installation from https://anaconda.org/bioconda/qualimap : ***conda install -c bioconda qualimap*** \
+Tool websource: http://qualimap.conesalab.org/ \
+Mannual: http://qualimap.conesalab.org/doc_html/index.html \
+Command:\
+***./qualimap bamqc -bam bam_file.bam -gff gene_annotation.bed -outdir qualimap_results -outformat pdf*** \
 
 ## Quantification
 ### featureCounts
