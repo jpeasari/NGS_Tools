@@ -2,6 +2,8 @@
 
 ## Basic Linux commands
 
+## Getting NGS data
+
 ## Quality Control
 
 ## Read alignment
