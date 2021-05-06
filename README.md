@@ -43,6 +43,15 @@ Commands: \
 ### multiqc
 ### fastp
 ### Qualimap
+>
+Installation from https://anaconda.org/bioconda/qualimap : ***conda install -c bioconda qualimap*** \
+Tool websource: http://qualimap.conesalab.org/ \
+Mannual: http://qualimap.conesalab.org/doc_html/index.html \
+Command:\
+***./qualimap bamqc -bam bam_file.bam -gff gene_annotation.bed -outdir qualimap_results -outformat pdf*** \
+
+
+
 
 ## Read alignment
 
