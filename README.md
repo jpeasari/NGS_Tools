@@ -14,7 +14,8 @@ replace nucl to prot to create database with amino acid sequences
 Step 2: Performing blast - ***blastn -query query.fasta -db your_database_name -out blast_result_file_name.out -outfmt 6*** \
 replace blastn to blastp to perfomr protein blast 
 >
-Links to understand blast output:\ 
+Links to understand blast output:
+>
 https://www.biostars.org/p/88944/  
 http://www.metagenomics.wiki/tools/blast/blastn-output-format-6
 
