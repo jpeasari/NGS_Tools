@@ -24,7 +24,8 @@ http://www.metagenomics.wiki/tools/blast/blastn-output-format-6
 ### SRA tool-kit
 
 Installation from https://anaconda.org/bioconda/sra-tools: ***conda install -c bioconda sra-tools*** \
-Documentation: https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=toolkit_doc
+Documentation: https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=toolkit_doc \
+fasterq-dump : https://github.com/ncbi/sra-tools/wiki/HowTo:-fasterq-dump \
 >
 Commands: \
 ***wget paste_hyperlink_here*** \
