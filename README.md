@@ -6,33 +6,33 @@
 
 ## Getting NGS data
 
-# SRA tool-kit
+### SRA tool-kit
 
 
 ## Quality Control
-# fastqc
-# multiqc
-# fastp
-# Qualimap
+### fastqc
+### multiqc
+### fastp
+### Qualimap
 
 ## Read alignment
 
-# STAR
-# bowtie2
-# hisat2
-# BWA
-# SPades
+### STAR
+### bowtie2
+### hisat2
+### BWA
+### SPades
 # Tophat2
 
 ## Quantification
-# featureCounts
-# Htseq2
+### featureCounts
+### Htseq2
 
 
 ## xxxtools
-# samtools
-# deeptools
-# bedtools
+### samtools
+### deeptools
+### bedtools
 
 
 ## SNP analysis
