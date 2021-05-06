@@ -27,7 +27,7 @@ Installation: ***conda install -c bioconda sra-tools***
 Documentation: https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=toolkit_doc
 >
 Commands: \
-***wget paste_hyperlink_here *** \
+***wget paste_hyperlink_here*** \
 ***fastq-dump SRRXXXXXX*** \
 ***fastq-dump -I --split-files SRRXXXXXX*** \
 ***fasterq-dump SRRXXXXXX*** and ***fasterq-dump -I --split-files SRRXXXXXX*** \
