@@ -33,11 +33,7 @@ Commands: \
 ***fastq-dump -I --split-files SRRXXXXXX*** - for paired end data \
 ***fasterq-dump SRRXXXXXX*** \
 ***fasterq-dump -I --split-files SRRXXXXXX*** - for paired end data \
-
-
-
-
-
+>
 ## Quality Control
 ### fastqc
 >
@@ -50,6 +46,12 @@ Command: \
 ***fastqc file_name.fastq*** 
 >
 ### multiqc
+>
+Installation from https://anaconda.org/bioconda/multiqc : ***conda install -c bioconda multiqc*** \
+Tool websource : https://multiqc.info/ \
+Documentation: https://multiqc.info/docs/ \
+Command: ***multiqc .*** 
+>
 ### fastp
 >
 Installation from https://anaconda.org/bioconda/fastp: ***conda install -c bioconda fastp*** \
