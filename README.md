@@ -40,6 +40,15 @@ Commands: \
 
 ## Quality Control
 ### fastqc
+>
+Installation from https://anaconda.org/bioconda/fastqc : ***conda install -c bioconda fastqc*** \
+Tool websource : https://www.bioinformatics.babraham.ac.uk/projects/fastqc/ \
+Mannual: https://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/ \
+Video Tutorial: https://www.youtube.com/watch?v=bz93ReOv87Y&ab_channel=BabrahamBioinf \
+>
+Command: \
+***fastqc file_name.fastq*** \
+>
 ### multiqc
 ### fastp
 ### Qualimap
